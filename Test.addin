@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Test</Name>
+    <Assembly>Test.dll</Assembly>
+    <ClientId>83ad19d1-44e6-4dac-9119-06d8c7ae9848</ClientId>
+    <FullClassName>Entools.Model.Mark</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
